@@ -26,7 +26,7 @@ yarn-error.log*
 
 //firebase config file
 
-/server/config/*
-/server/firebase/*
-/src/_firebase
+server/config/*
+server/firebase/*
+src/_firebase
 .env
