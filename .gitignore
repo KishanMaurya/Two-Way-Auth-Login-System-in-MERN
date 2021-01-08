@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+node_modules/
+logs/
 # testing
 /coverage
 
@@ -28,3 +29,4 @@ yarn-error.log*
 /server/config/*
 /server/firebase/*
 /src/_firebase
+.env
