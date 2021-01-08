@@ -25,6 +25,6 @@ yarn-error.log*
 
 //firebase config file
 
-/src/.firebase
-/server/firebase/.index.js
-/server/config/.fbAccountService.json
+/server/config/*
+/server/firebase/*
+/src/_firebase
